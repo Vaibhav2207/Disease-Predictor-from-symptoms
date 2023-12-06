@@ -1,0 +1,2 @@
+
+        print('\nValidation Accuracy: ', accuracy)
